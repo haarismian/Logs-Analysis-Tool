@@ -1,6 +1,6 @@
 # News Database Logs Analysis!
 
-![](https://imgur.com/a/QoNTM)
+![](https://i.imgur.com/emdovYt.png)
 
 This project uses Postgresql and the Python DB-API to run queries on the database for a news website!
 
