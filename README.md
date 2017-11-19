@@ -20,7 +20,7 @@ This project uses the following technologies to operate:
 
 ### Installation
 
-This project requires the News database to be running
+This project requires the News database to be running. The database file can be found <a href="https://drive.google.com/a/haarismian.com/file/d/0B0xZGbUTbjedUGQ3MGN0bVp1ZlU/view?usp=sharing"> here!</a>
 
 ### Usage
 1. Extract the contents of News Logs Analysis.zip to any folder
