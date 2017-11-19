@@ -25,8 +25,9 @@ This project requires the News database to be running. The database file can be 
 ### Usage
 1. Extract the contents of News Logs Analysis.zip to any folder
 2. logsAnalysis.py must be in the same folder as the database
-3. Run logsAnalysis.py
-4. Enjoy the premade queries!
+3. Run the vagrant machine with the database
+4. Run logsAnalysis.py
+5. Enjoy the premade queries!
 
 ### Known Issues and To do
 N/A
